@@ -1,8 +1,8 @@
 ### Hi there , welcome to my GitHub profile 👋
 
-- 🔭 I’m currently working on Magazord, a company that develops e-commerce.
-- 🔎 My work focuses on the artificial intelligence and research sector.
-- 🌱 I’m currently learning Typescript, Node and React, exploring its ecosystems.
+- 🔭 I’m currently working on PicPay, a company that develops digital wallet.
+- 🔎 My work focuses on the Open Banking and Microservices.
+- 🌱 I’m currently learning Java, Kotlin and Microservices.
 - 🤔 I'm looking for new technologies and ideas that can impact people's lives.
 
 ---
