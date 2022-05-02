@@ -1,8 +1,8 @@
 ### Hi there , welcome to my GitHub profile 👋
 
 - 🔭 I’m currently working on PicPay, a company that develops digital wallet.
-- 🔎 My work focuses on the Open Banking and Microservices.
-- 🌱 I’m currently learning Java, Kotlin and Microservices.
+- 🔎 My work focuses on the Microservices for Open Finance.
+- 🌱 I’m currently learning Kotlin and Microservices.
 - 🤔 I'm looking for new technologies and ideas that can impact people's lives.
 
 ---
